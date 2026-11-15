@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "clouds-coder-frozen-revision-retry-guard",
+  "original_repository": "FonaTech/Clouds-Coder",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-11-08-15.json",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/clouds-coder-s2/CONTRIBUTION_HANDOFF.md"
+  ],
+  "title": "Preserve frozen process documents during reconciliation",
+  "work_state": "DELIVERED",
+  "next_action": "No further work while owner_control=PAUSE; third-party publication and maintenance remain separately gated",
+  "source_revision": "83a0d25aa59ef1bc8e295ec45104a9c7f0819c83",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/clouds-coder-s2/frozen-process-fix.patch",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/clouds-coder-s2/CONTRIBUTION_HANDOFF.md"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/FonaTech/Clouds-Coder/pull/50"
+  ],
+  "last_event_id": null
+}
